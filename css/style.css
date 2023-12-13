@@ -293,7 +293,7 @@ html {
   padding-top: 16rem;
   padding-bottom: 20rem;
   height: 90vh;
-  background: linear-gradient(90deg, rgba(105, 71, 40, 0.5) -0.81%, rgba(8, 8, 8, 0.5) -0.8%), url("../img/adventure-bg.jpg") center/cover no-repeat;
+  background: linear-gradient(90deg, rgba(105, 71, 40, 0.5) -0.81%, rgba(8, 8, 8, 0.5) -0.8%), url(../img/adventure-bg.jpg) center/cover no-repeat;
   clip-path: polygon(0 0, 100% 9%, 100% 99%, 0 89%);
 }
 
